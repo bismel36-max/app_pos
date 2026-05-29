@@ -1,7 +1,0 @@
-{
-  "name": "KasirPro",
-  "type": "custom",
-  "integrations": {
-    "capacitor": {}
-  }
-}
