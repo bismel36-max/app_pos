@@ -1,12 +1,12 @@
 {
-  "name": "kasirpro-appflow-ready",
+  "name": "kasirpro-appflow-v2",
   "private": true,
-  "version": "1.0.0",
-  "description": "KasirPro POS Appflow-ready Capacitor project",
+  "version": "1.0.1",
+  "description": "KasirPro POS Appflow-ready Capacitor project v2",
   "scripts": {
-    "build": "echo 'Web assets ready in www'",
-    "sync": "npx cap sync android",
-    "copy": "npx cap copy android"
+    "build": "echo Web assets ready in www",
+    "copy": "npx cap copy android",
+    "sync": "npx cap sync android"
   },
   "dependencies": {
     "@capacitor/android": "^7.0.0",

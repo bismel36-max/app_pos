@@ -1,0 +1,9 @@
+{
+  "appId": "com.kasirpro.pos",
+  "appName": "KasirPro",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
